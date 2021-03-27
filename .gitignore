@@ -1,0 +1,16 @@
+*.exe
+*.out
+*.o
+*.pch
+*.gch
+*.files
+*.creator
+*.cxxflags
+*.creator.user
+*.files
+*.config
+*.includes
+*.cflags
+*.gcov
+*.gcno
+*.gcda
